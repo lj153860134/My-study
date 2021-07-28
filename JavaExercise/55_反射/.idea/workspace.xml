@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="026cfb3c-a996-4d55-a9ed-dd42f087dc02" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SulgR1v19ZiylOr9s0jGVZDRcl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module_1/src/cn/lingjian_5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReflectDemo6">
+    <configuration name="ReflectDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_1.ReflectDemo2" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_1.ReflectDemo4" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_1.ReflectDemo5" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_1.ReflectDemo6" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_5.Test" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReflectDemo6" />
+        <item itemvalue="Application.ReflectDemo4" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.ReflectDemo5" />
+        <item itemvalue="Application.ReflectDemo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="026cfb3c-a996-4d55-a9ed-dd42f087dc02" name="Default Changelist" comment="" />
+      <created>1572421471935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572421471935</updated>
+      <workItem from="1572421473168" duration="3653000" />
+      <workItem from="1572484157009" duration="8301000" />
+      <workItem from="1572503735526" duration="5846000" />
+      <workItem from="1572574354980" duration="1600000" />
+      <workItem from="1575535069782" duration="218000" />
+      <workItem from="1575535596925" duration="2355000" />
+      <workItem from="1579571316576" duration="1309000" />
+      <workItem from="1580606251982" duration="5000" />
+      <workItem from="1581507085365" duration="1872000" />
+      <workItem from="1581665364182" duration="979000" />
+      <workItem from="1589857502298" duration="783000" />
+      <workItem from="1590070052951" duration="746000" />
+      <workItem from="1590110264682" duration="36000" />
+      <workItem from="1592878230573" duration="38000" />
+      <workItem from="1592878289237" duration="4000" />
+      <workItem from="1593310631625" duration="590000" />
+      <workItem from="1594433791462" duration="409000" />
+      <workItem from="1594447956994" duration="264000" />
+      <workItem from="1594478830515" duration="268000" />
+      <workItem from="1595122668839" duration="628000" />
+      <workItem from="1598317258707" duration="1866000" />
+      <workItem from="1599120036913" duration="162000" />
+      <workItem from="1600421244037" duration="200000" />
+      <workItem from="1600601061726" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1388" height="124" key="GridCell.Tab.0.bottom" timestamp="1598326355940">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1598318730013" />
+    <state width="1388" height="124" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1598326355940" />
+    <state width="1388" height="59" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1590072424712" />
+    <state width="1388" height="124" key="GridCell.Tab.0.center" timestamp="1598326355939">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1598318730012" />
+    <state width="1388" height="124" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1598326355939" />
+    <state width="1388" height="59" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1590072424711" />
+    <state width="1388" height="124" key="GridCell.Tab.0.left" timestamp="1598326355939">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1598318730011" />
+    <state width="1388" height="124" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1598326355939" />
+    <state width="1388" height="59" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1590072424710" />
+    <state width="1388" height="124" key="GridCell.Tab.0.right" timestamp="1598326355940">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1598318730012" />
+    <state width="1388" height="124" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1598326355940" />
+    <state width="1388" height="59" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1590072424711" />
+    <state x="97" y="23" key="SettingsEditor" timestamp="1598317948836">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="97" y="23" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1598317948836" />
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1595124109679">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.807@0.23.1440.807" timestamp="1595124109679" />
+  </component>
+</project>

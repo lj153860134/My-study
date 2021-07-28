@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20c65941-51ed-41a3-8f84-fb69fbace60b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R5ndesyTex6dWqPE6E0MhKTVbT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.lingjian_3" />
+      <recent name="cn.lingjian_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TreeSetDemo1">
+    <configuration name="HashSetDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_1.HashSetDemo2" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_1.SetDemo1" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_2.TreeSetDemo" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetDemo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_3.TreeSetDemo1" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_4.TreeSetDemo1" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TreeSetDemo1" />
+        <item itemvalue="Application.TreeSetDemo1 (1)" />
+        <item itemvalue="Application.TreeSetDemo" />
+        <item itemvalue="Application.HashSetDemo2" />
+        <item itemvalue="Application.SetDemo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20c65941-51ed-41a3-8f84-fb69fbace60b" name="Default Changelist" comment="" />
+      <created>1568965912918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568965912918</updated>
+      <workItem from="1568965915210" duration="2913000" />
+      <workItem from="1568979903045" duration="5727000" />
+      <workItem from="1569028509289" duration="8778000" />
+      <workItem from="1569121197580" duration="996000" />
+      <workItem from="1569139994579" duration="26000" />
+      <workItem from="1569141101536" duration="10000" />
+      <workItem from="1569141143269" duration="86000" />
+      <workItem from="1569287148375" duration="651000" />
+      <workItem from="1574601079634" duration="3285000" />
+      <workItem from="1583719838365" duration="1309000" />
+      <workItem from="1583804510847" duration="529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1388" height="70" key="GridCell.Tab.0.bottom" timestamp="1583766774828">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="70" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1583766774828" />
+    <state width="1388" height="70" key="GridCell.Tab.0.center" timestamp="1583766774828">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="70" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1583766774828" />
+    <state width="1388" height="70" key="GridCell.Tab.0.left" timestamp="1583766774828">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="70" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1583766774828" />
+    <state width="1388" height="70" key="GridCell.Tab.0.right" timestamp="1583766774828">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="70" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1583766774828" />
+  </component>
+</project>

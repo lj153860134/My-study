@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9155be4-95a5-4c79-b488-2f93c66cb2bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../apache_maven/repository" />
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1Zht08BjOsmmDcxpTTxU3nTGucK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumeUserApplication">
+    <configuration name="ConsumeUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consume_user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.user.ConsumeUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.eureka.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderTicketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider_ticket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.ticket.ProviderTicketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9155be4-95a5-4c79-b488-2f93c66cb2bb" name="Default Changelist" comment="" />
+      <created>1585302927506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585302927506</updated>
+      <workItem from="1585302928780" duration="6348000" />
+      <workItem from="1585559127726" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="23" width="1000" height="821" key="#Project_Structure" timestamp="1585303245334">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="220" y="23" width="1000" height="821" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1585303245334" />
+    <state x="471" y="298" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1585304278852">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="471" y="298" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1440.821@0.23.1440.821" timestamp="1585304278852" />
+    <state width="945" height="52" key="GridCell.Tab.0.bottom" timestamp="1585314109469">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="945" height="52" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585314109469" />
+    <state width="945" height="442" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1585306306591" />
+    <state width="945" height="52" key="GridCell.Tab.0.center" timestamp="1585314109468">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="945" height="52" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1585314109468" />
+    <state width="945" height="442" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1585306306590" />
+    <state width="945" height="52" key="GridCell.Tab.0.left" timestamp="1585314109468">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="945" height="52" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1585314109468" />
+    <state width="945" height="442" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1585306306590" />
+    <state width="945" height="52" key="GridCell.Tab.0.right" timestamp="1585314109468">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="945" height="52" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1585314109468" />
+    <state width="945" height="442" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1585306306590" />
+    <state width="945" height="52" key="GridCell.Tab.1.bottom" timestamp="1585314109469">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="945" height="52" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585314109469" />
+    <state width="945" height="442" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1585306306592" />
+    <state width="945" height="52" key="GridCell.Tab.1.center" timestamp="1585314109469">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="945" height="52" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1585314109469" />
+    <state width="945" height="442" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1585306306591" />
+    <state width="945" height="52" key="GridCell.Tab.1.left" timestamp="1585314109469">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="945" height="52" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1585314109469" />
+    <state width="945" height="442" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1585306306591" />
+    <state width="945" height="52" key="GridCell.Tab.1.right" timestamp="1585314109469">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="945" height="52" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1585314109469" />
+    <state width="945" height="442" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1585306306592" />
+    <state x="80" y="23" key="SettingsEditor" timestamp="1585304282087">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="80" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1585304282087" />
+    <state x="0" y="23" width="1440" height="681" key="new project wizard" timestamp="1585308741726">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="0" y="23" width="1440" height="681" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1585308741726" />
+    <state x="301" y="23" width="838" height="821" key="search.everywhere.popup" timestamp="1585313439906">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="301" y="23" width="838" height="821" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1585313439906" />
+  </component>
+</project>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7de4c585-f2ec-4f76-879c-d707e3be5790" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VBz5K6FhlUOnmSrZfUazVM5WAz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.CompleteTreeNodeNumber">
+    <configuration name="BalancedBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_4.BalancedBinaryTree" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySortTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_4.BinarySortTree" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompleteTreeNodeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_5.CompleteTreeNodeNumber" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteNodeTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.DeleteNodeTree" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorrisTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.MorrisTraversal" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CompleteTreeNodeNumber" />
+        <item itemvalue="Application.BinarySortTree" />
+        <item itemvalue="Application.DeleteNodeTree" />
+        <item itemvalue="Application.MorrisTraversal" />
+        <item itemvalue="Application.BalancedBinaryTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7de4c585-f2ec-4f76-879c-d707e3be5790" name="Default Changelist" comment="" />
+      <created>1576741091673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576741091673</updated>
+      <workItem from="1576741093811" duration="3961000" />
+      <workItem from="1576757672366" duration="2047000" />
+      <workItem from="1576760805560" duration="5632000" />
+      <workItem from="1576806054642" duration="598000" />
+      <workItem from="1576916788192" duration="2095000" />
+      <workItem from="1576931711526" duration="10140000" />
+      <workItem from="1576984967533" duration="1710000" />
+      <workItem from="1577023728998" duration="886000" />
+      <workItem from="1577101413427" duration="4000" />
+      <workItem from="1578447590304" duration="7000" />
+      <workItem from="1583382816564" duration="213000" />
+      <workItem from="1583468784621" duration="40000" />
+      <workItem from="1583483719887" duration="5290000" />
+      <workItem from="1583548624728" duration="7422000" />
+      <workItem from="1583635162048" duration="5177000" />
+      <workItem from="1583719398652" duration="22803000" />
+      <workItem from="1583805046619" duration="11328000" />
+      <workItem from="1584147467042" duration="4462000" />
+      <workItem from="1584236796573" duration="818000" />
+      <workItem from="1584320337328" duration="3000" />
+      <workItem from="1586509968599" duration="280000" />
+      <workItem from="1589015254451" duration="801000" />
+      <workItem from="1589180016376" duration="6182000" />
+      <workItem from="1589877103152" duration="653000" />
+      <workItem from="1592558510155" duration="640000" />
+      <workItem from="1592637472837" duration="82000" />
+      <workItem from="1595556740473" duration="1480000" />
+      <workItem from="1596461163761" duration="1513000" />
+      <workItem from="1598337616656" duration="1196000" />
+      <workItem from="1598405370892" duration="1000" />
+      <workItem from="1598515519270" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1388" height="102" key="GridCell.Tab.0.bottom" timestamp="1596472788969">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1596461922740" />
+    <state width="1388" height="102" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1596472788969" />
+    <state width="1388" height="102" key="GridCell.Tab.0.center" timestamp="1596472788968">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1596461922739" />
+    <state width="1388" height="102" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1596472788968" />
+    <state width="1388" height="102" key="GridCell.Tab.0.left" timestamp="1596472788968">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1596461922739" />
+    <state width="1388" height="102" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1596472788968" />
+    <state width="1388" height="102" key="GridCell.Tab.0.right" timestamp="1596472788968">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1596461922740" />
+    <state width="1388" height="102" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1596472788968" />
+    <state x="348" y="118" width="744" height="616" key="find.popup" timestamp="1598515530440">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="348" y="118" width="744" height="616" key="find.popup/0.23.1440.807@0.23.1440.807" timestamp="1598515530440" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module_1/src/com/lingjian_1/DeleteNodeTree.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

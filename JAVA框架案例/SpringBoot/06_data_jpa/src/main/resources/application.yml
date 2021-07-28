@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    username: root
+    password: lj210910
+    url: jdbc:mysql://182.92.124.128:3306/jpa?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+#      更新或者创建数据表结构
+      ddl-auto: update
+#      控制台显示SQL 方便观察
+    show-sql: true
+  main:
+    allow-bean-definition-overriding: true

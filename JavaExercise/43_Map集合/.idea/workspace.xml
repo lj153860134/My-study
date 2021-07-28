@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="481df05f-a0b2-4746-8c00-62f5e0ed7fe4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RAxHFbIFOR2ml1fnqRREWRBLRQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.lingjian_4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PokeDemo2">
+    <configuration name="CollectionsDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_7.CollectionsDemo1" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_7.CollectionsDemo2" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTestDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_5.MapTestDemo1" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokeDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_8.PokeDemo1" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokeDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lingjian_8.PokeDemo2" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lingjian_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PokeDemo2" />
+        <item itemvalue="Application.MapTestDemo1" />
+        <item itemvalue="Application.PokeDemo1" />
+        <item itemvalue="Application.CollectionsDemo2" />
+        <item itemvalue="Application.CollectionsDemo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="481df05f-a0b2-4746-8c00-62f5e0ed7fe4" name="Default Changelist" comment="" />
+      <created>1569123611114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569123611114</updated>
+      <workItem from="1569123612618" duration="4287000" />
+      <workItem from="1569140023318" duration="819000" />
+      <workItem from="1569141089512" duration="2376000" />
+      <workItem from="1569285914319" duration="7716000" />
+      <workItem from="1569306194897" duration="8490000" />
+      <workItem from="1569416081074" duration="2000" />
+      <workItem from="1574666282450" duration="1169000" />
+      <workItem from="1574751330394" duration="57000" />
+      <workItem from="1574823280475" duration="31000" />
+      <workItem from="1577951718203" duration="394000" />
+      <workItem from="1577952399585" duration="7000" />
+      <workItem from="1586659639663" duration="1306000" />
+      <workItem from="1586912471538" duration="339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1388" height="102" key="GridCell.Tab.0.bottom" timestamp="1586708294198">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1388" height="238" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1586673385885" />
+    <state width="1388" height="102" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1586708294198" />
+    <state width="1388" height="102" key="GridCell.Tab.0.center" timestamp="1586708294197">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1388" height="238" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1586673385884" />
+    <state width="1388" height="102" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1586708294197" />
+    <state width="1388" height="102" key="GridCell.Tab.0.left" timestamp="1586708294197">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1388" height="238" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1586673385883" />
+    <state width="1388" height="102" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1586708294197" />
+    <state width="1388" height="102" key="GridCell.Tab.0.right" timestamp="1586708294198">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1388" height="238" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1586673385884" />
+    <state width="1388" height="102" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1586708294198" />
+  </component>
+</project>

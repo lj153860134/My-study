@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a2c5e95-ec8a-4e1b-9ac8-e629e75f63ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U6wMqnd6dCqTpVnXbFKmtRikZW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lingjian_7.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lingjian_8.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module_1/src/com/lingjian_8/dao" />
+      <recent name="$PROJECT_DIR$/module_1/src" />
+      <recent name="$PROJECT_DIR$/module_1/lib" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ConnectionTest.testConnection1">
+    <configuration name="ConnectionTest.testConnection1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_1" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.ConnectionTest" />
+      <option name="METHOD_NAME" value="testConnection1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectionTest.testConnection5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_1" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.ConnectionTest" />
+      <option name="METHOD_NAME" value="testConnection5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryRunnerTest.testQuery4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_10" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_10.QueryRunnerTest" />
+      <option name="METHOD_NAME" value="testQuery4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryRunnerTest.testQuery5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_10" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_10.QueryRunnerTest" />
+      <option name="METHOD_NAME" value="testQuery5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryRunnerTest.testQuery6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_10" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_10.QueryRunnerTest" />
+      <option name="METHOD_NAME" value="testQuery6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConnectionTest.testConnection1" />
+        <item itemvalue="JUnit.ConnectionTest.testConnection5" />
+        <item itemvalue="JUnit.QueryRunnerTest.testQuery6" />
+        <item itemvalue="JUnit.QueryRunnerTest.testQuery5" />
+        <item itemvalue="JUnit.QueryRunnerTest.testQuery4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a2c5e95-ec8a-4e1b-9ac8-e629e75f63ef" name="Default Changelist" comment="" />
+      <created>1574690307572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574690307572</updated>
+      <workItem from="1574690308796" duration="21000" />
+      <workItem from="1574840781360" duration="1011000" />
+      <workItem from="1574942863660" duration="6001000" />
+      <workItem from="1575369759982" duration="8622000" />
+      <workItem from="1575456958481" duration="10124000" />
+      <workItem from="1575507642229" duration="1764000" />
+      <workItem from="1575545314356" duration="5835000" />
+      <workItem from="1575553110759" duration="782000" />
+      <workItem from="1575554054429" duration="172000" />
+      <workItem from="1575554241567" duration="91000" />
+      <workItem from="1575638195278" duration="6697000" />
+      <workItem from="1575699268263" duration="448000" />
+      <workItem from="1575891387264" duration="8454000" />
+      <workItem from="1575958580411" duration="911000" />
+      <workItem from="1575981652658" duration="52000" />
+      <workItem from="1575981870932" duration="1813000" />
+      <workItem from="1575985441614" duration="691000" />
+      <workItem from="1576242062494" duration="4626000" />
+      <workItem from="1576464333219" duration="1626000" />
+      <workItem from="1576545629743" duration="2148000" />
+      <workItem from="1576547887024" duration="2998000" />
+      <workItem from="1576571724876" duration="646000" />
+      <workItem from="1576582847296" duration="7287000" />
+      <workItem from="1576673853749" duration="4093000" />
+      <workItem from="1576677999611" duration="4003000" />
+      <workItem from="1577932767675" duration="423000" />
+      <workItem from="1578299261128" duration="46000" />
+      <workItem from="1578367063373" duration="650000" />
+      <workItem from="1578368052294" duration="131000" />
+      <workItem from="1578897910257" duration="2910000" />
+      <workItem from="1578962834152" duration="598000" />
+      <workItem from="1579532553786" duration="391000" />
+      <workItem from="1579570846554" duration="166000" />
+      <workItem from="1581301109520" duration="783000" />
+      <workItem from="1584791695222" duration="238000" />
+      <workItem from="1590113249972" duration="891000" />
+      <workItem from="1593308550426" duration="42000" />
+      <workItem from="1593308601230" duration="687000" />
+      <workItem from="1595835547130" duration="285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1388" height="274" key="GridCell.Tab.0.bottom" timestamp="1584791932875">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="274" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1584791932875" />
+    <state width="1388" height="274" key="GridCell.Tab.0.center" timestamp="1584791932874">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="274" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1584791932874" />
+    <state width="1388" height="274" key="GridCell.Tab.0.left" timestamp="1584791932874">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="274" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1584791932874" />
+    <state width="1388" height="274" key="GridCell.Tab.0.right" timestamp="1584791932875">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="274" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1584791932875" />
+    <state x="80" y="23" key="SettingsEditor" timestamp="1590115235880">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="80" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1590115235880" />
+    <state x="301" y="23" key="search.everywhere.popup" timestamp="1590115056677">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="301" y="23" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1590115056677" />
+  </component>
+</project>

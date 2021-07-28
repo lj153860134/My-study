@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d515dcd-9d98-49ea-b188-2d1e09e304d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UmhRCYI4DI2bloggSetHQgTiWA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Application.SmallSumDemo">
+    <configuration name="SmallSumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1_digui.SmallSumDemo" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1_digui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaoHeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1_digui.XiaoHeDemo" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1_digui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hehe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1_digui.hehe" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1_digui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SmallSumDemo" />
+        <item itemvalue="Application.hehe" />
+        <item itemvalue="Application.XiaoHeDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d515dcd-9d98-49ea-b188-2d1e09e304d5" name="Default Changelist" comment="" />
+      <created>1575967667152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575967667152</updated>
+      <workItem from="1575967668385" duration="2137000" />
+      <workItem from="1575981641531" duration="6000" />
+      <workItem from="1576032560350" duration="3282000" />
+      <workItem from="1576045766714" duration="617000" />
+      <workItem from="1576201359906" duration="14000" />
+      <workItem from="1577101290269" duration="2000" />
+      <workItem from="1577101413825" duration="598000" />
+      <workItem from="1595553772482" duration="523000" />
+      <workItem from="1596469376993" duration="969000" />
+      <workItem from="1596547648812" duration="134000" />
+      <workItem from="1598515148575" duration="751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="23" width="1000" height="821" key="#Project_Structure" timestamp="1575967680817">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="220" y="23" width="1000" height="821" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1575967680817" />
+    <state width="1388" height="237" key="GridCell.Tab.0.bottom" timestamp="1576045700320">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1576045700320" />
+    <state width="1388" height="237" key="GridCell.Tab.0.center" timestamp="1576045700320">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1576045700320" />
+    <state width="1388" height="237" key="GridCell.Tab.0.left" timestamp="1576045700319">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1576045700319" />
+    <state width="1388" height="237" key="GridCell.Tab.0.right" timestamp="1576045700320">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1576045700320" />
+    <state width="1388" height="237" key="GridCell.Tab.1.bottom" timestamp="1576045700321">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1576045700321" />
+    <state width="1388" height="237" key="GridCell.Tab.1.center" timestamp="1576045700321">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1576045700321" />
+    <state width="1388" height="237" key="GridCell.Tab.1.left" timestamp="1576045700320">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1576045700320" />
+    <state width="1388" height="237" key="GridCell.Tab.1.right" timestamp="1576045700321">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1576045700321" />
+    <state x="0" y="23" key="new project wizard" timestamp="1575967678324">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="0" y="23" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1575967678324" />
+  </component>
+</project>

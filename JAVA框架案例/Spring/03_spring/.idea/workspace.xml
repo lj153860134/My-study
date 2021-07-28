@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58f38d74-651e-469c-a50e-2875d36faf46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../apache_maven/repository" />
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1XbnDfLLRZ000gxkEIzFWgAlD0D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.ui.Client" />
+      <module name="03_spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58f38d74-651e-469c-a50e-2875d36faf46" name="Default Changelist" comment="" />
+      <created>1581323543277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581323543277</updated>
+      <workItem from="1581323544544" duration="2290000" />
+      <workItem from="1581325866777" duration="5132000" />
+      <workItem from="1581381326448" duration="99000" />
+      <workItem from="1581381572941" duration="24000" />
+      <workItem from="1581413194495" duration="7000" />
+      <workItem from="1589941196967" duration="905000" />
+      <workItem from="1592915779822" duration="2557000" />
+      <workItem from="1593241736872" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="591" height="554" key="DebuggerActiveHint" timestamp="1592916172958">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="591" height="554" key="DebuggerActiveHint/0.23.1440.821@0.23.1440.821" timestamp="1592916172958" />
+    <state width="1388" height="429" key="GridCell.Tab.0.bottom" timestamp="1592925127560">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1592915987908" />
+    <state width="1388" height="429" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1592925127560" />
+    <state width="1388" height="429" key="GridCell.Tab.0.center" timestamp="1592925127559">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1592915987907" />
+    <state width="1388" height="429" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1592925127559" />
+    <state width="1388" height="429" key="GridCell.Tab.0.left" timestamp="1592925127559">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1592915987907" />
+    <state width="1388" height="429" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1592925127559" />
+    <state width="1388" height="429" key="GridCell.Tab.0.right" timestamp="1592925127560">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1592915987908" />
+    <state width="1388" height="429" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1592925127560" />
+    <state width="1388" height="429" key="GridCell.Tab.1.bottom" timestamp="1592925127560">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1592915988412" />
+    <state width="1388" height="429" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1592925127560" />
+    <state width="1388" height="429" key="GridCell.Tab.1.center" timestamp="1592925127560">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1592915988412" />
+    <state width="1388" height="429" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1592925127560" />
+    <state width="1388" height="429" key="GridCell.Tab.1.left" timestamp="1592925127560">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1592915988412" />
+    <state width="1388" height="429" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1592925127560" />
+    <state width="1388" height="429" key="GridCell.Tab.1.right" timestamp="1592925127560">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1388" height="237" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1592915988412" />
+    <state width="1388" height="429" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1592925127560" />
+    <state x="194" y="23" key="SettingsEditor" timestamp="1592916792969">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="194" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1592916792969" />
+    <state x="253" y="60" key="spring file set editor" timestamp="1589941207471">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="253" y="60" key="spring file set editor/0.23.1440.821@0.23.1440.821" timestamp="1589941207471" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lingjian/ui/Client.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

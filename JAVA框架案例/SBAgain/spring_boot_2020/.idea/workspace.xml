@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ace0926b-890b-4cda-8dce-6d7ba7e7cdfd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../apache_maven/repository" />
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1deZOfAt8cwP8Do0UEg0tu2Qfjd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lingjian.config" />
+      <recent name="com.lingjian.controller" />
+      <recent name="com.lingjian.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/05_cache/src/main/java/com/lingjian" />
+      <recent name="$PROJECT_DIR$/04_mybatis_data/src/main/resources" />
+      <recent name="$PROJECT_DIR$/03_jdbc/src/main/resources/sql" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationTests.contextLoads">
+    <configuration name="ApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.ApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04_mybatis_data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloworldQuickApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02_helloworld_quick" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.helloworld_quick.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian.helloworld_quick" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.helloworld_quick.HelloworldQuickApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lingjian.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="05_rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="03_jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloworldQuickApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="02_helloworld_quick" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.helloworld_quick.HelloworldQuickApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.HelloworldQuickApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.lingjian.contextLoads" />
+        <item itemvalue="JUnit.ApplicationTests" />
+        <item itemvalue="Spring Boot.Application (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace0926b-890b-4cda-8dce-6d7ba7e7cdfd" name="Default Changelist" comment="" />
+      <created>1592787488834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592787488834</updated>
+      <workItem from="1592787490031" duration="153000" />
+      <workItem from="1592787648149" duration="6916000" />
+      <workItem from="1593479280054" duration="45000" />
+      <workItem from="1593479548766" duration="3356000" />
+      <workItem from="1593483815649" duration="4478000" />
+      <workItem from="1593565140795" duration="268000" />
+      <workItem from="1593565457315" duration="312000" />
+      <workItem from="1593565772420" duration="2000" />
+      <workItem from="1593565794727" duration="5049000" />
+      <workItem from="1593655066285" duration="1858000" />
+      <workItem from="1593656944068" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="144" y="23" key="#ApplicationTests.contextLoads" timestamp="1593656884676">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="144" y="23" key="#ApplicationTests.contextLoads/0.23.1440.816@0.23.1440.816" timestamp="1593656884676" />
+    <state x="144" y="23" key="#ApplicationTests.contextLoads/0.23.1440.821@0.23.1440.821" timestamp="1593656708595" />
+    <state x="80" y="23" key="#Project_Structure" timestamp="1592787549575">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="80" y="23" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1592787549575" />
+    <state x="906" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1593484150810">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="906" y="67" key="#com.intellij.ide.util.MemberChooser/0.23.1440.816@0.23.1440.816" timestamp="1593484150810" />
+    <state x="460" y="23" key="#lingjian.contextLoads" timestamp="1593656918987">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="460" y="23" key="#lingjian.contextLoads/0.23.1440.816@0.23.1440.816" timestamp="1593656918987" />
+    <state width="1388" height="254" key="GridCell.Tab.0.bottom" timestamp="1593656970721">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1388" height="251" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1593481257629" />
+    <state width="1388" height="158" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1593481776497" />
+    <state width="1388" height="176" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1593566645228" />
+    <state width="1388" height="80" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1593587028026" />
+    <state width="1388" height="254" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1593656970721" />
+    <state width="1388" height="255" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1593656717980" />
+    <state width="1388" height="307" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1593569404538" />
+    <state width="1388" height="526" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1593482695646" />
+    <state width="1388" height="254" key="GridCell.Tab.0.center" timestamp="1593656970720">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1388" height="251" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1593481257628" />
+    <state width="1388" height="158" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1593481776496" />
+    <state width="1388" height="176" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1593566645227" />
+    <state width="1388" height="80" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1593587028025" />
+    <state width="1388" height="254" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1593656970720" />
+    <state width="1388" height="255" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1593656717979" />
+    <state width="1388" height="307" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1593569404537" />
+    <state width="1388" height="526" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1593482695645" />
+    <state width="1388" height="254" key="GridCell.Tab.0.left" timestamp="1593656970720">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1388" height="251" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1593481257628" />
+    <state width="1388" height="158" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1593481776495" />
+    <state width="1388" height="176" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1593566645227" />
+    <state width="1388" height="80" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1593587028025" />
+    <state width="1388" height="254" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1593656970720" />
+    <state width="1388" height="255" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1593656717979" />
+    <state width="1388" height="307" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1593569404537" />
+    <state width="1388" height="526" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1593482695645" />
+    <state width="1388" height="254" key="GridCell.Tab.0.right" timestamp="1593656970720">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1388" height="251" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1593481257629" />
+    <state width="1388" height="158" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1593481776496" />
+    <state width="1388" height="176" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1593566645228" />
+    <state width="1388" height="80" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1593587028026" />
+    <state width="1388" height="254" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1593656970720" />
+    <state width="1388" height="255" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1593656717979" />
+    <state width="1388" height="307" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1593569404538" />
+    <state width="1388" height="526" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1593482695646" />
+    <state width="1388" height="255" key="GridCell.Tab.1.bottom" timestamp="1593656280446">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="199" key="GridCell.Tab.1.bottom/0.23.1440.807@0.23.1440.807" timestamp="1593481224587" />
+    <state width="1388" height="158" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1593481776497" />
+    <state width="1388" height="176" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1593566645229" />
+    <state width="1388" height="196" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1593567935808" />
+    <state width="1388" height="120" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1593486776041" />
+    <state width="1388" height="255" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1593656280446" />
+    <state width="1388" height="307" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1593569404539" />
+    <state width="1388" height="526" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1593482695648" />
+    <state width="1388" height="255" key="GridCell.Tab.1.center" timestamp="1593656280445">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="199" key="GridCell.Tab.1.center/0.23.1440.807@0.23.1440.807" timestamp="1593481224586" />
+    <state width="1388" height="158" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1593481776497" />
+    <state width="1388" height="176" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1593566645229" />
+    <state width="1388" height="196" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1593567935808" />
+    <state width="1388" height="120" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1593486776041" />
+    <state width="1388" height="255" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1593656280445" />
+    <state width="1388" height="307" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1593569404539" />
+    <state width="1388" height="526" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1593482695647" />
+    <state width="1388" height="255" key="GridCell.Tab.1.left" timestamp="1593656280445">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="199" key="GridCell.Tab.1.left/0.23.1440.807@0.23.1440.807" timestamp="1593481224586" />
+    <state width="1388" height="158" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1593481776497" />
+    <state width="1388" height="176" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1593566645228" />
+    <state width="1388" height="196" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1593567935808" />
+    <state width="1388" height="120" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1593486776041" />
+    <state width="1388" height="255" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1593656280445" />
+    <state width="1388" height="307" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1593569404538" />
+    <state width="1388" height="526" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1593482695646" />
+    <state width="1388" height="255" key="GridCell.Tab.1.right" timestamp="1593656280446">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="199" key="GridCell.Tab.1.right/0.23.1440.807@0.23.1440.807" timestamp="1593481224587" />
+    <state width="1388" height="158" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1593481776497" />
+    <state width="1388" height="176" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1593566645229" />
+    <state width="1388" height="196" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1593567935808" />
+    <state width="1388" height="120" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1593486776041" />
+    <state width="1388" height="255" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1593656280446" />
+    <state width="1388" height="307" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1593569404539" />
+    <state width="1388" height="526" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1593482695647" />
+    <state x="98" y="23" width="1280" height="816" key="SettingsEditor" timestamp="1593656831327">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="98" y="23" width="1280" height="816" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1593656831327" />
+    <state x="98" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1593655376562" />
+    <state x="37" y="23" width="1440" height="816" key="new project wizard" timestamp="1593656827110">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="0" y="23" width="1440" height="807" key="new project wizard/0.23.1440.807@0.23.1440.807" timestamp="1593479646559" />
+    <state x="37" y="23" width="1440" height="816" key="new project wizard/0.23.1440.816@0.23.1440.816" timestamp="1593656827110" />
+    <state x="0" y="23" width="1440" height="821" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1593656366344" />
+    <state x="301" y="23" width="838" height="1034" key="search.everywhere.popup" timestamp="1593569206653">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1592791686072" />
+    <state x="301" y="23" width="838" height="1034" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1593569206653" />
+  </component>
+</project>

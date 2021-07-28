@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1e09c51-7eca-4150-8343-4fa196b89d8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../apache_maven/repository" />
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1XVTfabVWo28Z9a5fKAvckeryGy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisTest.testFindUserInIds">
+    <configuration name="MybatisTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06_mybatisDynamicSQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_1.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06_mybatisDynamicSQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_1.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testFindUserByCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06_mybatisDynamicSQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_1.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindUserByCondition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testFindUserInIds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06_mybatisDynamicSQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_1.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindUserInIds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisTest.testFindUserInIds" />
+        <item itemvalue="JUnit.MybatisTest.testFindUserByCondition" />
+        <item itemvalue="JUnit.MybatisTest.testFindAll" />
+        <item itemvalue="JUnit.MybatisTest.testFindById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1e09c51-7eca-4150-8343-4fa196b89d8e" name="Default Changelist" comment="" />
+      <created>1581130365221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581130365221</updated>
+      <workItem from="1581130366473" duration="266000" />
+      <workItem from="1581130636708" duration="2964000" />
+      <workItem from="1581143067788" duration="4707000" />
+      <workItem from="1581241650107" duration="117000" />
+      <workItem from="1589891158367" duration="13000" />
+      <workItem from="1589936603800" duration="3000" />
+      <workItem from="1597472149285" duration="242000" />
+      <workItem from="1597578611384" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1581146027861">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="489" y="57" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1581146027861" />
+    <state x="179" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581132082041">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="179" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.821@0.23.1440.821" timestamp="1581132082041" />
+    <state width="1388" height="12" key="GridCell.Tab.0.bottom" timestamp="1581148816479">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1388" height="353" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1581146814230" />
+    <state width="1388" height="3" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1581147109906" />
+    <state width="1388" height="12" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1581148816479" />
+    <state width="1388" height="12" key="GridCell.Tab.0.center" timestamp="1581148816479">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1388" height="353" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1581146814229" />
+    <state width="1388" height="3" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1581147109905" />
+    <state width="1388" height="12" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1581148816479" />
+    <state width="1388" height="12" key="GridCell.Tab.0.left" timestamp="1581148816478">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1388" height="353" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1581146814229" />
+    <state width="1388" height="3" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1581147109904" />
+    <state width="1388" height="12" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1581148816478" />
+    <state width="1388" height="12" key="GridCell.Tab.0.right" timestamp="1581148816479">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1388" height="353" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1581146814229" />
+    <state width="1388" height="3" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1581147109905" />
+    <state width="1388" height="12" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1581148816479" />
+    <state x="98" y="23" key="SettingsEditor" timestamp="1581130876476">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="98" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1581130876476" />
+  </component>
+</project>

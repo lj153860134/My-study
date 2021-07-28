@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fad0c17-8c2d-48f1-a7f5-a46c09374904" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="714471a8-4d6c-4677-859a-dbabaa5f1276" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../apache_maven/repository" />
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1ZpUvVfJrdHA2sOaW6WGd3UoiRD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lingjian.springcloud.service" />
+      <recent name="com.lingjian.springcloud.controller" />
+      <recent name="com.lingjian.springcloud.config" />
+      <recent name="com.lingjian.springcloud" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/src/main/resources" />
+      <recent name="$PROJECT_DIR$/cloud-alibaba-provider-payment9004/src/main/resources" />
+      <recent name="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3388/src/main/resources" />
+      <recent name="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/resources" />
+      <recent name="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/src/main/resources" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/payment/create" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="qq" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/payment/create" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="xvxiaomeng" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lingjian123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lllljjjj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="xvxiaomeng" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/payment/create" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="xvxiaomeng" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lingjian123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lllljjjj" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/payment/create？serial=qwe" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="xvxiaomeng" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lingjian123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/payment/create" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="xvxiaomeng" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lingjian123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/payment/create" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="xvxiaomeng" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/payment/create" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="xvxiaomeng" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/payment/create" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="xvxiaomeng" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="lj" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/payment/create" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="xvxiaomeng" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/payment/get/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApp8401">
+    <configuration name="ConfigCenterMain3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-center-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.ConfigCenterMain3344" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3355" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.ConfigClientMain3355" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3366" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.ConfigClientMain3366" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-gateway-gateway9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.GateWayMain9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-hystrix-consumer-dashboard9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.HystrixDashboardMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-sentinel-service8401" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.MainApp8401" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConfigClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-config-nacos-client3377" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.NacosConfigClientMain3377" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConfigClientMain3388" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-config-nacos-client3388" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.NacosConfigClientMain3388" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderConsulMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consul-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.OrderConsulMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-feign-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.OrderFeignMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-hystrix-feign-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springboot.OrderHystrixMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderNacosMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-consumer-nacos-order83" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.OrderNacosMain83" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderNacosMain84" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-consumer-nacos-order84" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.OrderNacosMain84" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderZkMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-zookeeper-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.OrderZkMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-hystrix-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.PaymentHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-zookeeper-provider-payment8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.PaymentMain8004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consul-provider-payment8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.PaymentMain8006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.PaymentMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-provider-payment9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.PaymentMain9002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-provider-payment9003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.PaymentMain9003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-provider-payment9004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.PaymentMain9004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderMainApp2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-seata-order-service2001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.SeataOrderMainApp2001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-provider8801" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.StreamMQMain8801" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8802" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-consumer8802" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.StreamMQMain8802" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-consumer8803" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lingjian.springcloud.StreamMQMain8803" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApp8401" />
+        <item itemvalue="Spring Boot.PaymentMain9004" />
+        <item itemvalue="Spring Boot.NacosConfigClientMain3388" />
+        <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
+        <item itemvalue="Spring Boot.OrderNacosMain83" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fad0c17-8c2d-48f1-a7f5-a46c09374904" name="Default Changelist" comment="" />
+      <created>1585535759854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585535759854</updated>
+      <workItem from="1585535761221" duration="12416000" />
+      <workItem from="1585556008343" duration="2915000" />
+      <workItem from="1585559240451" duration="4344000" />
+      <workItem from="1585563808080" duration="231000" />
+      <workItem from="1585576496759" duration="3419000" />
+      <workItem from="1585614583823" duration="1066000" />
+      <workItem from="1585615776535" duration="240000" />
+      <workItem from="1585616198647" duration="1181000" />
+      <workItem from="1585617594065" duration="20270000" />
+      <workItem from="1585788938665" duration="14838000" />
+      <workItem from="1585816081591" duration="3995000" />
+      <workItem from="1585823468932" duration="12398000" />
+      <workItem from="1585874362471" duration="10778000" />
+      <workItem from="1585901627785" duration="11488000" />
+      <workItem from="1585924331180" duration="1654000" />
+      <workItem from="1586002224649" duration="2867000" />
+      <workItem from="1586005581918" duration="114000" />
+      <workItem from="1586005814320" duration="4715000" />
+      <workItem from="1586137053635" duration="11634000" />
+      <workItem from="1586221126251" duration="10940000" />
+      <workItem from="1586241117704" duration="383000" />
+      <workItem from="1586242030524" duration="367000" />
+      <workItem from="1586242428029" duration="24000" />
+      <workItem from="1586242622276" duration="2742000" />
+      <workItem from="1586251289907" duration="7646000" />
+      <workItem from="1586276095096" duration="184000" />
+      <workItem from="1586305753435" duration="14338000" />
+      <workItem from="1586348290711" duration="5426000" />
+      <workItem from="1586422243759" duration="405000" />
+      <workItem from="1586574276065" duration="45000" />
+      <workItem from="1586680202212" duration="628000" />
+      <workItem from="1586912470937" duration="336000" />
+      <workItem from="1594602788829" duration="4745000" />
+      <workItem from="1594865110622" duration="743000" />
+      <workItem from="1594956812942" duration="123000" />
+      <workItem from="1595207769153" duration="187000" />
+      <workItem from="1595925830562" duration="268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="23" key="#PaymentMain9001_(1)" timestamp="1586222276071">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="261" y="23" key="#PaymentMain9001_(1)/0.23.1440.821@0.23.1440.821" timestamp="1586222276071" />
+    <state x="489" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1586351211694">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="489" y="93" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1586351211694" />
+    <state width="802" height="3" key="GridCell.Tab.0.bottom" timestamp="1586342102993">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="802" height="3" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1586342102993" />
+    <state width="802" height="351" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1586342025652" />
+    <state width="802" height="33" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1586275921260" />
+    <state width="802" height="83" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1586249831698" />
+    <state width="802" height="3" key="GridCell.Tab.0.center" timestamp="1586342102992">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="802" height="3" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1586342102992" />
+    <state width="802" height="351" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1586342025651" />
+    <state width="802" height="33" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1586275921260" />
+    <state width="802" height="83" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1586249831697" />
+    <state width="802" height="3" key="GridCell.Tab.0.left" timestamp="1586342102992">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="802" height="3" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1586342102992" />
+    <state width="802" height="351" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1586342025651" />
+    <state width="802" height="33" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1586275921259" />
+    <state width="802" height="83" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1586249831697" />
+    <state width="802" height="3" key="GridCell.Tab.0.right" timestamp="1586342102993">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="802" height="3" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1586342102993" />
+    <state width="802" height="351" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1586342025652" />
+    <state width="802" height="33" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1586275921260" />
+    <state width="802" height="83" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1586249831698" />
+    <state width="802" height="3" key="GridCell.Tab.1.bottom" timestamp="1586342102993">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="802" height="3" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1586342102993" />
+    <state width="802" height="351" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1586342025654" />
+    <state width="802" height="33" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1586275921261" />
+    <state width="802" height="83" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1586249831699" />
+    <state width="802" height="3" key="GridCell.Tab.1.center" timestamp="1586342102993">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="802" height="3" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1586342102993" />
+    <state width="802" height="351" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1586342025653" />
+    <state width="802" height="33" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1586275921261" />
+    <state width="802" height="83" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1586249831699" />
+    <state width="802" height="3" key="GridCell.Tab.1.left" timestamp="1586342102993">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="802" height="3" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1586342102993" />
+    <state width="802" height="351" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1586342025652" />
+    <state width="802" height="33" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1586275921260" />
+    <state width="802" height="83" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1586249831698" />
+    <state width="802" height="3" key="GridCell.Tab.1.right" timestamp="1586342102993">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="802" height="3" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1586342102993" />
+    <state width="802" height="351" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1586342025653" />
+    <state width="802" height="33" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1586275921261" />
+    <state width="802" height="83" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1586249831699" />
+    <state x="144" y="23" key="SettingsEditor" timestamp="1586332398429">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="144" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1586332398429" />
+    <state x="0" y="39" key="new project wizard" timestamp="1586348346646">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="0" y="116" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1586331908130" />
+    <state x="0" y="39" key="new project wizard/0.23.1440.822@0.23.1440.822" timestamp="1586348346646" />
+    <state x="0" y="118" key="new project wizard/0.23.1440.823@0.23.1440.823" timestamp="1586250817062" />
+    <state x="301" y="23" width="838" height="1015" key="search.everywhere.popup" timestamp="1594648071842">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="301" y="23" width="838" height="1015" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1594648071842" />
+    <state x="301" y="23" width="838" height="1027" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1586336895251" />
+  </component>
+</project>

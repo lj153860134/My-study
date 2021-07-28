@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f1e5d2a-2ac2-4db2-b7a6-5bc727d34ac0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../apache_maven/repository" />
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1XPf3jOZHi3gLSAXucprhdvdrz0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisTest.testFindById">
+    <configuration name="MybatisTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04_mybatisDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_1.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04_mybatisDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_1.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testFindByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04_mybatisDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_1.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testSaveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04_mybatisDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lingjian_1.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testSaveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisTest.testFindById" />
+        <item itemvalue="JUnit.MybatisTest.testFindAll" />
+        <item itemvalue="JUnit.MybatisTest.testSaveUser" />
+        <item itemvalue="JUnit.MybatisTest.testFindByName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f1e5d2a-2ac2-4db2-b7a6-5bc727d34ac0" name="Default Changelist" comment="" />
+      <created>1580952452434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580952452434</updated>
+      <workItem from="1580952453782" duration="3186000" />
+      <workItem from="1580974874123" duration="3133000" />
+      <workItem from="1581131282169" duration="2000" />
+      <workItem from="1581131747995" duration="17000" />
+      <workItem from="1581143365732" duration="9000" />
+      <workItem from="1589890205832" duration="619000" />
+      <workItem from="1594434224494" duration="383000" />
+      <workItem from="1598114401843" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="91" key="#com.intellij.ide.util.MemberChooser" timestamp="1580977416988">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="489" y="91" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1580977416988" />
+    <state x="438" y="274" width="564" height="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580952948046">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="438" y="274" width="564" height="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.821@0.23.1440.821" timestamp="1580952948046" />
+    <state x="395" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580953052246">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="395" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1580953052246" />
+    <state width="1388" height="62" key="GridCell.Tab.0.bottom" timestamp="1580978080352">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="62" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1580978080352" />
+    <state width="1388" height="62" key="GridCell.Tab.0.center" timestamp="1580978080351">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="62" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1580978080351" />
+    <state width="1388" height="62" key="GridCell.Tab.0.left" timestamp="1580978080351">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="62" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1580978080351" />
+    <state width="1388" height="62" key="GridCell.Tab.0.right" timestamp="1580978080352">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="62" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1580978080352" />
+    <state x="98" y="23" key="SettingsEditor" timestamp="1580952695602">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="98" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1580952695602" />
+    <state x="0" y="71" key="new project wizard" timestamp="1580977689132">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="0" y="71" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1580977689132" />
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1580975111227">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1580975111227" />
+  </component>
+</project>

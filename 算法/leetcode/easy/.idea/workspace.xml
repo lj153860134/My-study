@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e054b08e-5dce-49e2-9362-be263ff62698" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../apache_maven/repository" />
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1ZROFKgRbPwN6DsLxPv4fpUch66" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/lingjian/leetcode" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lingjian.leetcode" />
+      <recent name="com.lingjian.trie" />
+      <recent name="com.lingjian.pailie" />
+      <recent name="com.lingjian.tree" />
+      <recent name="com.lingjian.concurrent.print_String" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/lingjian/leetcode" />
+      <recent name="$PROJECT_DIR$/src/com/lingjian/dynamicprogramming" />
+      <recent name="$PROJECT_DIR$/src/com/lingjian/dandiao_stack_queue" />
+      <recent name="$PROJECT_DIR$/src/com/lingjian/tree" />
+      <recent name="$PROJECT_DIR$/src/com/lingjian" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main_04">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.exercise.Main" />
+      <module name="easy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.test.Main_03" />
+      <module name="easy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.test.Main_04" />
+      <module name="easy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.exercise.Main_1" />
+      <module name="easy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.exercise.Test" />
+      <module name="easy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main_04" />
+        <item itemvalue="Application.Main_03" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main_1" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e054b08e-5dce-49e2-9362-be263ff62698" name="Default Changelist" comment="" />
+      <created>1584798334527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584798334527</updated>
+      <workItem from="1584798335943" duration="5774000" />
+      <workItem from="1584833202282" duration="5891000" />
+      <workItem from="1586524740094" duration="4507000" />
+      <workItem from="1586568350925" duration="32000" />
+      <workItem from="1586953611750" duration="6348000" />
+      <workItem from="1586964552467" duration="1670000" />
+      <workItem from="1586998950650" duration="2631000" />
+      <workItem from="1587044177999" duration="6670000" />
+      <workItem from="1587088666179" duration="28000" />
+      <workItem from="1587088769027" duration="437000" />
+      <workItem from="1588833026693" duration="41000" />
+      <workItem from="1590473772675" duration="9179000" />
+      <workItem from="1590564766645" duration="7768000" />
+      <workItem from="1591080286775" duration="12817000" />
+      <workItem from="1591109377643" duration="3520000" />
+      <workItem from="1591165573803" duration="7252000" />
+      <workItem from="1591232008665" duration="533000" />
+      <workItem from="1591252308683" duration="5123000" />
+      <workItem from="1591259171488" duration="7183000" />
+      <workItem from="1591325324144" duration="877000" />
+      <workItem from="1591348380862" duration="9373000" />
+      <workItem from="1591404608269" duration="3276000" />
+      <workItem from="1591837042487" duration="11304000" />
+      <workItem from="1591944795220" duration="12978000" />
+      <workItem from="1592034178643" duration="7837000" />
+      <workItem from="1592203301878" duration="10529000" />
+      <workItem from="1592269090352" duration="3000" />
+      <workItem from="1592288035159" duration="7839000" />
+      <workItem from="1592461828365" duration="8813000" />
+      <workItem from="1592553190121" duration="6906000" />
+      <workItem from="1592637597637" duration="8559000" />
+      <workItem from="1592730158835" duration="6942000" />
+      <workItem from="1592786779931" duration="16000" />
+      <workItem from="1592808352855" duration="9387000" />
+      <workItem from="1592877938983" duration="6929000" />
+      <workItem from="1593241746521" duration="7899000" />
+      <workItem from="1593327180383" duration="11477000" />
+      <workItem from="1593422088331" duration="323000" />
+      <workItem from="1593477160216" duration="186000" />
+      <workItem from="1593497262603" duration="13635000" />
+      <workItem from="1593588691351" duration="8318000" />
+      <workItem from="1593756786222" duration="16155000" />
+      <workItem from="1593824566756" duration="8431000" />
+      <workItem from="1594015290404" duration="13072000" />
+      <workItem from="1594085422359" duration="861000" />
+      <workItem from="1594102138900" duration="12585000" />
+      <workItem from="1594171847779" duration="386000" />
+      <workItem from="1594189712639" duration="9287000" />
+      <workItem from="1594209032109" duration="405000" />
+      <workItem from="1594279856485" duration="39000" />
+      <workItem from="1594279924087" duration="7051000" />
+      <workItem from="1594365468230" duration="7033000" />
+      <workItem from="1594395888737" duration="160000" />
+      <workItem from="1594453908840" duration="3616000" />
+      <workItem from="1594793374609" duration="885000" />
+      <workItem from="1595155161753" duration="3126000" />
+      <workItem from="1595207755737" duration="10835000" />
+      <workItem from="1595315178706" duration="6272000" />
+      <workItem from="1595405219642" duration="5924000" />
+      <workItem from="1595427560061" duration="3699000" />
+      <workItem from="1595518010883" duration="2127000" />
+      <workItem from="1595555651743" duration="9587000" />
+      <workItem from="1595947267899" duration="398000" />
+      <workItem from="1596158087941" duration="15377000" />
+      <workItem from="1596242666554" duration="92000" />
+      <workItem from="1596242916814" duration="727000" />
+      <workItem from="1596288044038" duration="284000" />
+      <workItem from="1596441353254" duration="4000" />
+      <workItem from="1596462743878" duration="6732000" />
+      <workItem from="1596548231327" duration="6706000" />
+      <workItem from="1596586800543" duration="23905000" />
+      <workItem from="1596640098954" duration="54000" />
+      <workItem from="1596673537428" duration="15279000" />
+      <workItem from="1596724301456" duration="1806000" />
+      <workItem from="1596760353595" duration="4458000" />
+      <workItem from="1596893173916" duration="4585000" />
+      <workItem from="1596958311831" duration="6598000" />
+      <workItem from="1597024242161" duration="9136000" />
+      <workItem from="1597217771061" duration="4229000" />
+      <workItem from="1597231687586" duration="4330000" />
+      <workItem from="1597245768173" duration="437000" />
+      <workItem from="1597308036077" duration="4094000" />
+      <workItem from="1597453779396" duration="424000" />
+      <workItem from="1597578617525" duration="3000" />
+      <workItem from="1597578627368" duration="7858000" />
+      <workItem from="1597630404518" duration="1814000" />
+      <workItem from="1597633990494" duration="2481000" />
+      <workItem from="1597647200286" duration="9759000" />
+      <workItem from="1597657195360" duration="6160000" />
+      <workItem from="1597714216912" duration="2923000" />
+      <workItem from="1597800087022" duration="10654000" />
+      <workItem from="1597890735066" duration="1326000" />
+      <workItem from="1597975861055" duration="3132000" />
+      <workItem from="1597993457590" duration="5567000" />
+      <workItem from="1598023217745" duration="4316000" />
+      <workItem from="1598104348909" duration="173000" />
+      <workItem from="1598187424548" duration="1051000" />
+      <workItem from="1598199206499" duration="2126000" />
+      <workItem from="1598232089815" duration="6883000" />
+      <workItem from="1598253015895" duration="5961000" />
+      <workItem from="1598275441862" duration="11444000" />
+      <workItem from="1598319669123" duration="14757000" />
+      <workItem from="1598405379183" duration="4089000" />
+      <workItem from="1598423499247" duration="2216000" />
+      <workItem from="1598488391275" duration="1316000" />
+      <workItem from="1598509084317" duration="4395000" />
+      <workItem from="1598664630115" duration="5006000" />
+      <workItem from="1598835614118" duration="13807000" />
+      <workItem from="1598869389966" duration="4312000" />
+      <workItem from="1598879413956" duration="1390000" />
+      <workItem from="1598923689998" duration="14943000" />
+      <workItem from="1598956852155" duration="8801000" />
+      <workItem from="1599010691235" duration="1122000" />
+      <workItem from="1599027958701" duration="9987000" />
+      <workItem from="1599101620408" duration="6719000" />
+      <workItem from="1599130259757" duration="5066000" />
+      <workItem from="1599146038099" duration="152000" />
+      <workItem from="1599188817835" duration="987000" />
+      <workItem from="1599217135099" duration="2239000" />
+      <workItem from="1599280248295" duration="158000" />
+      <workItem from="1599280595947" duration="9218000" />
+      <workItem from="1599303015531" duration="2084000" />
+      <workItem from="1599315716825" duration="5125000" />
+      <workItem from="1599354703487" duration="10117000" />
+      <workItem from="1599383374885" duration="8659000" />
+      <workItem from="1599557925178" duration="3660000" />
+      <workItem from="1599630757903" duration="223000" />
+      <workItem from="1599649070917" duration="3566000" />
+      <workItem from="1599738826518" duration="5759000" />
+      <workItem from="1599832213625" duration="10896000" />
+      <workItem from="1599869295501" duration="7617000" />
+      <workItem from="1599893502264" duration="10349000" />
+      <workItem from="1599923675874" duration="2790000" />
+      <workItem from="1599997105256" duration="3635000" />
+      <workItem from="1600044278029" duration="16945000" />
+      <workItem from="1600079392625" duration="5143000" />
+      <workItem from="1600095400428" duration="3623000" />
+      <workItem from="1600136193273" duration="3160000" />
+      <workItem from="1600219397728" duration="10706000" />
+      <workItem from="1600251584365" duration="112000" />
+      <workItem from="1600251757560" duration="11859000" />
+      <workItem from="1600270966823" duration="2494000" />
+      <workItem from="1600303544233" duration="11977000" />
+      <workItem from="1600411501704" duration="391000" />
+      <workItem from="1600601061727" duration="5262000" />
+      <workItem from="1600654189832" duration="1187000" />
+      <workItem from="1600696837939" duration="284000" />
+      <workItem from="1600738326105" duration="157000" />
+      <workItem from="1600835841436" duration="853000" />
+      <workItem from="1600859840782" duration="892000" />
+      <workItem from="1601032247004" duration="2216000" />
+      <workItem from="1603331784264" duration="57000" />
+      <workItem from="1603331876738" duration="887000" />
+      <workItem from="1620795124016" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1600085653309">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="476" y="61" key="#com.intellij.ide.util.MemberChooser/0.23.1440.807@0.23.1440.807" timestamp="1600085653309" />
+    <state x="476" y="115" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1598342347965" />
+    <state x="405" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603331824881">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="405" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.807@0.23.1440.807" timestamp="1603331824881" />
+    <state x="300" y="236" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1598253850004">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="300" y="236" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1440.811@0.23.1440.811" timestamp="1598253850004" />
+    <state x="323" y="23" width="793" height="808" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1598423586596">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="323" y="23" width="793" height="808" key="#com.intellij.unscramble.UnscrambleDialog/0.23.1440.808@0.23.1440.808" timestamp="1598423586596" />
+    <state width="1388" height="60" key="GridCell.Tab.0.bottom" timestamp="1601049882471">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="60" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1601049882471" />
+    <state width="1388" height="172" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1600605521940" />
+    <state width="1388" height="198" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1600323534842" />
+    <state width="1388" height="128" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1600338873955" />
+    <state width="1388" height="285" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1597321728626" />
+    <state width="1388" height="211" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1600346343213" />
+    <state width="1388" height="156" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1597230952169" />
+    <state width="1388" height="60" key="GridCell.Tab.0.center" timestamp="1601049882470">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="60" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1601049882470" />
+    <state width="1388" height="172" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1600605521939" />
+    <state width="1388" height="198" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1600323534841" />
+    <state width="1388" height="128" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1600338873954" />
+    <state width="1388" height="285" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1597321728626" />
+    <state width="1388" height="211" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1600346343213" />
+    <state width="1388" height="156" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1597230952169" />
+    <state width="1388" height="60" key="GridCell.Tab.0.left" timestamp="1601049882469">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="60" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1601049882469" />
+    <state width="1388" height="172" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1600605521938" />
+    <state width="1388" height="198" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1600323534840" />
+    <state width="1388" height="128" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1600338873953" />
+    <state width="1388" height="285" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1597321728625" />
+    <state width="1388" height="211" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1600346343212" />
+    <state width="1388" height="156" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1597230952168" />
+    <state width="1388" height="60" key="GridCell.Tab.0.right" timestamp="1601049882470">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="60" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1601049882470" />
+    <state width="1388" height="172" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1600605521939" />
+    <state width="1388" height="198" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1600323534842" />
+    <state width="1388" height="128" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1600338873954" />
+    <state width="1388" height="285" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1597321728626" />
+    <state width="1388" height="211" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1600346343213" />
+    <state width="1388" height="156" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1597230952169" />
+    <state width="1388" height="86" key="GridCell.Tab.1.bottom" timestamp="1600606797524">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="86" key="GridCell.Tab.1.bottom/0.23.1440.807@0.23.1440.807" timestamp="1600606797524" />
+    <state width="1388" height="279" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1600265723152" />
+    <state width="1388" height="198" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1600323534980" />
+    <state width="1388" height="211" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1600336044292" />
+    <state width="1388" height="211" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1600346343214" />
+    <state width="1388" height="156" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1597230952170" />
+    <state width="1388" height="86" key="GridCell.Tab.1.center" timestamp="1600606797524">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="86" key="GridCell.Tab.1.center/0.23.1440.807@0.23.1440.807" timestamp="1600606797524" />
+    <state width="1388" height="279" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1600265723152" />
+    <state width="1388" height="198" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1600323534979" />
+    <state width="1388" height="211" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1600336044292" />
+    <state width="1388" height="211" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1600346343213" />
+    <state width="1388" height="156" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1597230952170" />
+    <state width="1388" height="86" key="GridCell.Tab.1.left" timestamp="1600606797524">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="86" key="GridCell.Tab.1.left/0.23.1440.807@0.23.1440.807" timestamp="1600606797524" />
+    <state width="1388" height="279" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1600265723151" />
+    <state width="1388" height="198" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1600323534979" />
+    <state width="1388" height="211" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1600336044292" />
+    <state width="1388" height="211" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1600346343213" />
+    <state width="1388" height="156" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1597230952169" />
+    <state width="1388" height="86" key="GridCell.Tab.1.right" timestamp="1600606797524">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="86" key="GridCell.Tab.1.right/0.23.1440.807@0.23.1440.807" timestamp="1600606797524" />
+    <state width="1388" height="279" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1600265723152" />
+    <state width="1388" height="198" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1600323534980" />
+    <state width="1388" height="211" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1600336044292" />
+    <state width="1388" height="211" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1600346343214" />
+    <state width="1388" height="156" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1597230952170" />
+    <state x="153" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600086774824">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="153" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.807@0.23.1440.807" timestamp="1600086774824" />
+    <state x="438" y="138" width="744" height="692" key="find.popup" timestamp="1600839893856">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="438" y="138" width="744" height="692" key="find.popup/0.23.1440.807@0.23.1440.807" timestamp="1600839893856" />
+    <state x="348" y="86" width="744" height="693" key="find.popup/0.23.1440.808@0.23.1440.808" timestamp="1600237336628" />
+    <state x="348" y="86" width="744" height="696" key="find.popup/0.23.1440.811@0.23.1440.811" timestamp="1600265133001" />
+    <state x="348" y="86" width="744" height="697" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1600343034840" />
+    <state x="348" y="86" width="744" height="696" key="find.popup/0.23.1440.814@0.23.1440.814" timestamp="1600343915401" />
+    <state x="348" y="86" width="744" height="701" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1597235447835" />
+    <state x="348" y="87" width="744" height="692" key="find.popup/0.23.1440.821@0.23.1440.821" timestamp="1597739481833" />
+    <state x="348" y="87" width="744" height="706" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1597314205281" />
+    <state x="407" y="169" key="refactoring.ChangeSignatureDialog" timestamp="1595428715704">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="407" y="169" key="refactoring.ChangeSignatureDialog/0.23.1440.807@0.23.1440.807" timestamp="1595428715704" />
+    <state x="301" y="23" width="838" height="812" key="search.everywhere.popup" timestamp="1600338717888">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="301" y="168" width="838" height="662" key="search.everywhere.popup/0.23.1440.807@0.23.1440.807" timestamp="1600225004454" />
+    <state x="301" y="168" width="838" height="663" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1597658439150" />
+    <state x="301" y="23" width="838" height="811" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1600014899148" />
+    <state x="301" y="23" width="838" height="812" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1600338717888" />
+    <state x="301" y="23" width="838" height="814" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1597823089167" />
+    <state x="301" y="169" width="838" height="670" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1597234294635" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lingjian/dynamicprogramming/Test_813.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lingjian/exercise/Calculate.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

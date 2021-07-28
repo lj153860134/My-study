@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-pool-1.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../MySQL资料/尚硅谷JDBC资料/3-资料/3-资料/2-驱动/03-数据库连接池驱动/commons-pool-1.5.5/commons-pool-1.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

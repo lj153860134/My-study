@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95d27998-f742-458b-afb4-bbf54b99c27d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../apache_maven/repository" />
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1XhZ7BmeyDhtAIhOeoYH6Tug8Ke" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/lingjian/cglib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.cglib.Client" />
+      <module name="11_spring_proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.proxy.Client" />
+      <module name="11_spring_proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clinet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian.proxy.Clinet" />
+      <module name="11_spring_proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Clinet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95d27998-f742-458b-afb4-bbf54b99c27d" name="Default Changelist" comment="" />
+      <created>1581500116630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581500116630</updated>
+      <workItem from="1581500117925" duration="5936000" />
+      <workItem from="1581562686567" duration="647000" />
+      <workItem from="1581663026804" duration="77000" />
+      <workItem from="1581664533712" duration="1358000" />
+      <workItem from="1581665926012" duration="22000" />
+      <workItem from="1589980982280" duration="667000" />
+      <workItem from="1590069913315" duration="1896000" />
+      <workItem from="1590116500179" duration="655000" />
+      <workItem from="1593310792916" duration="410000" />
+      <workItem from="1594448287279" duration="206000" />
+      <workItem from="1594448675119" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1388" height="164" key="GridCell.Tab.0.bottom" timestamp="1590072200535">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="164" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1590072200535" />
+    <state width="1388" height="240" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1581507957895" />
+    <state width="1388" height="164" key="GridCell.Tab.0.center" timestamp="1590072200534">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="164" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1590072200534" />
+    <state width="1388" height="240" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1581507957894" />
+    <state width="1388" height="164" key="GridCell.Tab.0.left" timestamp="1590072200534">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="164" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1590072200534" />
+    <state width="1388" height="240" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1581507957894" />
+    <state width="1388" height="164" key="GridCell.Tab.0.right" timestamp="1590072200535">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="164" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1590072200535" />
+    <state width="1388" height="240" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1581507957895" />
+  </component>
+</project>

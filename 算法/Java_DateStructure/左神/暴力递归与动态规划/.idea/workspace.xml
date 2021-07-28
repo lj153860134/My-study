@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6a5a5ff-32ce-47bb-99e5-192d0b08ad10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VNnCVKEg5b20wOeQJiZ5cNg1Bz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.ChangeMoney">
+    <configuration name="BagProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_2.BagProblem" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_3.ChangeMoney" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaiLie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.PaiLie" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintAllString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.PrintAllString" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotWalk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_3.RobotWalk" />
+      <module name="module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChangeMoney" />
+        <item itemvalue="Application.BagProblem" />
+        <item itemvalue="Application.PaiLie" />
+        <item itemvalue="Application.PrintAllString" />
+        <item itemvalue="Application.RobotWalk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6a5a5ff-32ce-47bb-99e5-192d0b08ad10" name="Default Changelist" comment="" />
+      <created>1577102292765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577102292765</updated>
+      <workItem from="1577102294022" duration="4376000" />
+      <workItem from="1583916893654" duration="6275000" />
+      <workItem from="1583993821188" duration="1728000" />
+      <workItem from="1584060167416" duration="437000" />
+      <workItem from="1584060616831" duration="421000" />
+      <workItem from="1584061052093" duration="508000" />
+      <workItem from="1584061721001" duration="188000" />
+      <workItem from="1584061925758" duration="112000" />
+      <workItem from="1584062048566" duration="53000" />
+      <workItem from="1584062115681" duration="394000" />
+      <workItem from="1584062559004" duration="598000" />
+      <workItem from="1584320345656" duration="9149000" />
+      <workItem from="1584407547668" duration="2000" />
+      <workItem from="1591258953381" duration="184000" />
+      <workItem from="1591259168551" duration="4116000" />
+      <workItem from="1591864371857" duration="206000" />
+      <workItem from="1595558396404" duration="3918000" />
+      <workItem from="1595580795092" duration="1362000" />
+      <workItem from="1595638770896" duration="33000" />
+      <workItem from="1595692582993" duration="14000" />
+      <workItem from="1596467965712" duration="2399000" />
+      <workItem from="1596675127785" duration="4548000" />
+      <workItem from="1597056515285" duration="238000" />
+      <workItem from="1597657108189" duration="67000" />
+      <workItem from="1597657194754" duration="697000" />
+      <workItem from="1597713739328" duration="313000" />
+      <workItem from="1598338375236" duration="13000" />
+      <workItem from="1599046677721" duration="467000" />
+      <workItem from="1599101605300" duration="1160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1388" height="131" key="GridCell.Tab.0.bottom" timestamp="1596727019073">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="131" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1596727019073" />
+    <state width="1388" height="106" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1596472785533" />
+    <state width="1388" height="154" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1591259136972" />
+    <state width="1388" height="131" key="GridCell.Tab.0.center" timestamp="1596727019072">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="131" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1596727019072" />
+    <state width="1388" height="106" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1596472785533" />
+    <state width="1388" height="154" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1591259136971" />
+    <state width="1388" height="131" key="GridCell.Tab.0.left" timestamp="1596727019072">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="131" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1596727019072" />
+    <state width="1388" height="106" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1596472785532" />
+    <state width="1388" height="154" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1591259136971" />
+    <state width="1388" height="131" key="GridCell.Tab.0.right" timestamp="1596727019073">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="131" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1596727019073" />
+    <state width="1388" height="106" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1596472785533" />
+    <state width="1388" height="154" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1591259136971" />
+    <state width="1388" height="272" key="GridCell.Tab.1.bottom" timestamp="1595575050402">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="272" key="GridCell.Tab.1.bottom/0.23.1440.807@0.23.1440.807" timestamp="1595575050402" />
+    <state width="1388" height="272" key="GridCell.Tab.1.center" timestamp="1595575050401">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="272" key="GridCell.Tab.1.center/0.23.1440.807@0.23.1440.807" timestamp="1595575050401" />
+    <state width="1388" height="272" key="GridCell.Tab.1.left" timestamp="1595575050401">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="272" key="GridCell.Tab.1.left/0.23.1440.807@0.23.1440.807" timestamp="1595575050401" />
+    <state width="1388" height="272" key="GridCell.Tab.1.right" timestamp="1595575050401">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1388" height="272" key="GridCell.Tab.1.right/0.23.1440.807@0.23.1440.807" timestamp="1595575050401" />
+    <state x="348" y="118" width="744" height="616" key="find.popup" timestamp="1595580861230">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="348" y="118" width="744" height="616" key="find.popup/0.23.1440.807@0.23.1440.807" timestamp="1595580861230" />
+    <state x="368" y="23" width="838" height="1015" key="search.everywhere.popup" timestamp="1597713748851">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="368" y="23" width="838" height="1015" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1597713748851" />
+    <state x="368" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1591270950857" />
+  </component>
+</project>

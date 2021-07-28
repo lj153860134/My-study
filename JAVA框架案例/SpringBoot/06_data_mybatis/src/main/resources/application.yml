@@ -1,0 +1,15 @@
+spring:
+  datasource:
+   username: root
+   password: lj210910
+   url: jdbc:mysql://182.92.124.128:3306/mybatis?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+   driver-class-name: com.mysql.cj.jdbc.Driver
+
+#   initialization-mode: always
+#   schema:
+#     - classpath:sql/department.sql
+#     - classpath:sql/employee.sql
+
+mybatis:
+#  config-location: classpath :mybatis-config.xml
+  mapper-locations: classpath :com/lingjian/mapper/*.xml

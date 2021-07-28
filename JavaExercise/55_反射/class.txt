@@ -1,0 +1,2 @@
+className=cn.lingjian_2.Teacher
+methodName=love

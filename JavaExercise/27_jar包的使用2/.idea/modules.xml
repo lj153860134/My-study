@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/27_jar包的使用2.iml" filepath="$PROJECT_DIR$/27_jar包的使用2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_2/module_2.iml" filepath="$PROJECT_DIR$/module_2/module_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_3/module_3.iml" filepath="$PROJECT_DIR$/module_3/module_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_4/module_4.iml" filepath="$PROJECT_DIR$/module_4/module_4.iml" />
+    </modules>
+  </component>
+</project>
